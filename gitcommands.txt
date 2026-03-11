@@ -6,3 +6,9 @@ type git init
 
 type git add . - tells git to track all files
 
+git commit -m "eg firstcommit" 
+
+git config --global user.email "frankmulandi5758@gmail.com"
+
+git config --global user.name "dailyknarf"
+
