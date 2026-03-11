@@ -1,0 +1,8 @@
+all this done on terminal
+
+type git
+
+type git init
+
+type git add . - tells git to track all files
+
