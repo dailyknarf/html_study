@@ -12,3 +12,9 @@ git config --global user.email "frankmulandi5758@gmail.com"
 
 git config --global user.name "dailyknarf"
 
+repeat git commit -m "eg firstcommit"
+
+git remote add origin https://github.com/dailyknarf/html_study.git - connect folder and computer to a git repository
+
+git push origin master
+
